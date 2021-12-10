@@ -1,5 +1,6 @@
 !! DEPRECATED !!
 ================
+Hello j'ai bien changé le readme :) 
 
 This library is deprecated and has been archived. Please use the new library here:
 https://github.com/adafruit/Adafruit_CircuitPython_PCA9685
